@@ -13,4 +13,4 @@ x - Oppgave 113 B   Test ut overskrifter i forskjellige størrelser, samt tekst 
 x - Oppgave 113 C   Lag nummererte lister og punktlister
 x - Oppgave 113 D   Lag lenker
 x - Oppgave 113 E   Sett inn bilder
-- Oppgave 113 F   Lag et skjema med tekstfelt, radioknapper og checkbokser"
+x - Oppgave 113 F   Lag et skjema med tekstfelt, radioknapper og checkbokser"
